@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>com.minebeamitsumi.PulseWave7</string>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>DS-DIGI.TTF</string>
+		<string>DS-DIGIB.TTF</string>
+		<string>DS-DIGII.TTF</string>
+		<string>DS-DIGIT.TTF</string>
+	</array>
+</dict>
+</plist>
